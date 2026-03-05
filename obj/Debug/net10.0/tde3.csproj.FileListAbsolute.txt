@@ -1,0 +1,15 @@
+C:\Users\sealo\DBE\tde3\bin\Debug\net10.0\tde3.exe
+C:\Users\sealo\DBE\tde3\bin\Debug\net10.0\tde3.deps.json
+C:\Users\sealo\DBE\tde3\bin\Debug\net10.0\tde3.runtimeconfig.json
+C:\Users\sealo\DBE\tde3\bin\Debug\net10.0\tde3.dll
+C:\Users\sealo\DBE\tde3\bin\Debug\net10.0\tde3.pdb
+C:\Users\sealo\DBE\tde3\obj\Debug\net10.0\tde3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sealo\DBE\tde3\obj\Debug\net10.0\tde3.AssemblyInfoInputs.cache
+C:\Users\sealo\DBE\tde3\obj\Debug\net10.0\tde3.AssemblyInfo.cs
+C:\Users\sealo\DBE\tde3\obj\Debug\net10.0\tde3.csproj.CoreCompileInputs.cache
+C:\Users\sealo\DBE\tde3\obj\Debug\net10.0\tde3.sourcelink.json
+C:\Users\sealo\DBE\tde3\obj\Debug\net10.0\tde3.dll
+C:\Users\sealo\DBE\tde3\obj\Debug\net10.0\refint\tde3.dll
+C:\Users\sealo\DBE\tde3\obj\Debug\net10.0\tde3.pdb
+C:\Users\sealo\DBE\tde3\obj\Debug\net10.0\tde3.genruntimeconfig.cache
+C:\Users\sealo\DBE\tde3\obj\Debug\net10.0\ref\tde3.dll
